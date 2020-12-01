@@ -58,6 +58,9 @@
 **Materialize Css Library:**
 [https://materializecss.com/](https://materializecss.com/)
 
+**React + redux Interview question:**
+[https://www.edureka.co/blog/interview-questions/react-interview-questions/](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
+
 **Npm QrCode:**
 [https://www.npmjs.com/package/qrcode.react](https://www.npmjs.com/package/qrcode.react)
 
