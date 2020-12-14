@@ -4,7 +4,7 @@
 **VS Code Shortcut:**
 [https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
-
+**Redux Template: npx create-react-app my-app --template redux**
 **Video Recoder Online:**
 [https://screenapp.io/#/](https://screenapp.io/#/)
 
