@@ -57,6 +57,7 @@
 **React-Redux Tutorial:**
 [https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
 
+
 **Materialize Css Library:**
 [https://materializecss.com/](https://materializecss.com/)
 
@@ -65,6 +66,14 @@
 
 **Npm QrCode:**
 [https://www.npmjs.com/package/qrcode.react](https://www.npmjs.com/package/qrcode.react)
+
+
+**React Multiselect Checkboxes:**
+[https://www.npmjs.com/package/react-multiselect-checkboxes](https://www.npmjs.com/package/react-multiselect-checkboxes)
+
+
+**react interview questions:**
+[https://www.edureka.co/blog/interview-questions/react-interview-questions/](https://www.edureka.co/blog/interview-questions/react-interview-questions/)
 
 
 **Postman Demo Video:**
