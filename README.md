@@ -79,6 +79,9 @@
 **Postman Demo Video:**
 [https://www.youtube.com/watch?v=2cvWa1x5LNY](https://www.youtube.com/watch?v=2cvWa1x5LNY)
 
+**Class vs function:**
+[https://codesandbox.io/s/pjqnl16lm7](https://codesandbox.io/s/pjqnl16lm7)
+[https://overreacted.io/how-are-function-components-different-from-classes/](https://overreacted.io/how-are-function-components-different-from-classes/)
 
 **Node.js-Express.js-MondoDB**
 [https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8](https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)
