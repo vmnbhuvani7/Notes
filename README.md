@@ -85,3 +85,40 @@
 
 **Node.js-Express.js-MondoDB**
 [https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8](https://www.youtube.com/watch?v=IIpiLZGTWuo&list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8)
+
+
+project structure
+
+src=>
+    action => All action write in here
+    assets => 
+        -css
+        -font
+        -img
+    components =>
+        -cart
+        -footer
+        -header
+        -home
+        -signup
+        -user
+        (write all components here)
+    config => 
+        -all constance data write here in a file
+        -constant.js
+    reducer => 
+        -all reducer file write here
+    routers => 
+        -public and private router write here
+    screens => 
+        -all display js file write in here
+        like
+        -home
+        -product
+        -user
+        -product
+    service => 
+        -write all sevice heree like 
+        -loader
+        -localstorage
+    
